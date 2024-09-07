@@ -1,3 +1,54 @@
 body {
     background-color: black;
+    background-image: url(Assets/BG.jpg);
+    /* audio::-webkit-media-controls {
+        display: none;
+    } */
+}
+.Text {
+    color: #01d500;
+    font-style: normal;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.ascii-art {
+    color: #01d500;
+    font-family: monospace;
+    white-space: pre;
+    width: fit-content;
+    margin: auto;
+}
+.Button{
+    cursor: pointer;
+    color: #01d500;
+    background-color: #04290485;
+    font-style: normal;
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid #01d500;
+    border-radius: 12px;
+    padding: 10px 24px;
+    display: inline-block;
+    transition-duration: 0.4s;
+}
+.Button:hover{
+    background-color: #074107a6;
+    color: #22fa22;
+}
+.Github {
+    color: #01d500;
+    font-style: oblique;
+    font-size: large;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    /* border: 2px solid #01d500 */
+    /* margin-right: 10px; */
+}
+.Credits {
+    color: #01d500;
+    font-style: oblique;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
 }
