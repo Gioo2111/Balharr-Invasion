@@ -666,7 +666,7 @@ var story = {
             .           ,
               '  -=-  '
             </pre>
-            < class="Text">Você reúne o grupo e designa um par para cada nave, entra na sua nave sozinho(a), liga-a e sai pela abertura.<br> 
+            <p class="Text">Você reúne o grupo e designa um par para cada nave, entra na sua nave sozinho(a), liga-a e sai pela abertura.<br> 
             A cidade não têm humanos, eles devem estar escondidos em abrigos ou algum outro lugar, então você mira na primeira nave Balharry que vê.<br>
             Dois feixes de laser fortes saem da sua nave, então você aprende como ela funciona e dispara em cada Balharry que consegue ver, e seu grupo faz o mesmo.<br>
             Um forte laser vindo da nave-mãe quase atinge você, então você mira nela e dispara.<br>
@@ -1264,7 +1264,7 @@ ____^/\\___^--____/\\____O______________/\\/\\---/\\___________---______________
                     |    |
                     '.__.'
             </pre>
-            < class="Text">Sua única escolha é beber. Você o faz perto do botão, caso ele faça o contrário de curá-lo.<br>
+            <p class="Text">Sua única escolha é beber. Você o faz perto do botão, caso ele faça o contrário de curá-lo.<br>
             A sensação é estranha, mas não parece letal. Uma onda de choque percorre seu corpo e suas feridas se fecham magicamente.<br>
             Agora você se sente melhor do que nunca, então pega um rifle, atira nos geradores de energia e sobe as escadas.<br>
             Você não vê nada, pois a nave-mãe agora está completamente às escuras, e se pergunta se sua decisão foi realmente brilhante.<br>
