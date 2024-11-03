@@ -8,16 +8,10 @@
   <script src="./main.js"></script>
 </head>
 
-<body>
+<body style="margin: 0;">
   <div id="start">
-    <!-- <audio autoplay loop controls>
-      <source src="Assets/BGSound.mp3" type="audio/mp3" />
-    </audio> -->
     <h1 class="Text">Welcome to Balharr invasion!</h1>
-    <br />
-    <h2 class="Text">Select your language</h2>
-    <br />
-    <pre class="ascii-art">
+    <pre class="ascii-art" style="margin-top: 60px;">
       .  . '    .                                             
       '   .            . '            .                +           
               `                          '    . '
@@ -42,23 +36,25 @@ _-"   .       '  +  .              .        ,//////0\ | /00HHHHHHHMMMMM
        +         .        '   .    .  ////////000000000HHHHHHHHMMMMMMhs
     </pre>
     <br />
-    <div style="display: flex; justify-content: center; width: 100%;">
-      <button class="Button" id="StartGame">Start Game</button>
+    <div style="display: flex; justify-content: center; width: 100%;margin-top: 24px;">
+      <button class="Button" id="StartGame" data-translatable="true" data-tid="start-game">Start Game</button>
     </div>
-    <br />
-    <br />
-    <p class="Credits">
-      <a class="Github" href="https://github.com/Gioo2111" target="_blank">My Github</a>
-    </p>
-    <p class="Credits">
-      Image by:
-      <a class="Credits" href="https://alphacoders.com/users/profile/66825/makateh#google_vignette"
-        target="_blank">makateh</a>
-    </p>
-    <p class="Credits">
-      Sounds by:
-      <a class="Credits" href="https://freesound.org/people/Scriptro/" target="_blank">Scriptro</a>
-    </p>
+    <div style="position: absolute; bottom: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%; margin: 0; padding: 0;">
+      <div>
+        <p class="Credits">
+          <a class="Github" href="https://github.com/Gioo2111" target="_blank">My Github</a>
+        </p>
+        <p class="Credits">
+          Image by:
+          <a class="Credits" href="https://alphacoders.com/users/profile/66825/makateh#google_vignette"
+            target="_blank">makateh</a>
+        </p>
+        <p class="Credits">
+          Sounds by:
+          <a class="Credits" href="https://freesound.org/people/Scriptro/" target="_blank">Scriptro</a>
+        </p>
+        </div>
+    </div>
   </div>
 </body>
 

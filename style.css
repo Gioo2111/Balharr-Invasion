@@ -1,13 +1,11 @@
 body {
     background-color: black;
     background-image: url(Assets/BG.jpg);
-    /* audio::-webkit-media-controls {
-        display: none;
-    } */
 }
 .Text {
     color: #01d500;
     font-style: normal;
+    font-size: 20px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -29,8 +27,10 @@ body {
     border: 1px solid #01d500;
     border-radius: 12px;
     padding: 10px 24px;
-    display: inline-block;
     transition-duration: 0.4s;
+    width: fit-content;
+    font-weight: 550;
+    margin-top: 4px;
 }
 .Button:hover{
     background-color: #074107a6;
@@ -42,8 +42,6 @@ body {
     font-size: large;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    /* border: 2px solid #01d500 */
-    /* margin-right: 10px; */
 }
 .Credits {
     color: #01d500;
