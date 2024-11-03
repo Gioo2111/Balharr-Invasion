@@ -1975,3 +1975,6 @@ function getButtons() {
     return buttons;
 }
 
+function test(){
+    return 1
+}
