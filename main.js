@@ -1013,7 +1013,7 @@ var story = {
     warRoom: {
         story: `
             <p class="Text">Você se esconde dentro da ventilação e se arrasta, procurando uma sala onde possa pensar e fazer um plano para mandar os alienígenas embora.<br>
-            Você vê uma sala vazia com uma mesa cheia de mapas e esboços, uma grande televisão e entra nela. Parece que eles estão planejando algo.<br>
+            Você vê uma sala vazia com uma mesa cheia de mapas e esboços, uma grande televisão e entra nela. Parece que eles estão planejando algo.<br></p>
             <pre class="ascii-art">                                                           
                 .                                            .
      *   .                  .              .        .   *          .
@@ -1130,7 +1130,7 @@ ____^/\\___^--____/\\____O______________/\\/\\---/\\___________---______________
             Os outros dois se ajoelham e juntam as mãos, como se estivessem rezando.<br>
             Um enorme raio laser atravessa a nave e ela explode. Agora, você e todos os outros tripulantes já estão mortos.<br>
             Muitos outros raios começam a atingir o planeta, que agora está cheio de crateras.<br>
-            Você morreu quando a nave-mãe explodiu, e o planeta inteiro explode em seguida.<br>
+            Você morreu quando a nave-mãe explodiu, e o planeta inteiro explode em seguida.<br></p>
         `,
         choices: [
             {
@@ -1153,7 +1153,7 @@ ____^/\\___^--____/\\____O______________/\\/\\---/\\___________---______________
       |   ____      __||__()__)        /________________________________||| 
       |  /    )    (           /___ _/ /   |      
             </pre> 
-            Silenciosamente, você desenrosca a grade e pula sobre o alienígena. Ele parece muito assustado e tenta afastar você.<br>
+            <p class="Text">Silenciosamente, você desenrosca a grade e pula sobre o alienígena. Ele parece muito assustado e tenta afastar você.<br>
             Ele é muito forte, mas seus anos de treinamento te tornam mais forte. Sem saber o que fazer para fazê-lo parar,<br>
             você pega um lápis na mesa e o fura até que ele pare de resistir.<br>
             Isso foi brutal... Mas não é como se houvessem outras opções. Agora, você tem um líquido azulado grudando nos braços.<br>
