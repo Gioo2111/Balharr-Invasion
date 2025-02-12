@@ -1153,7 +1153,7 @@ ____^/\\___^--____/\\____O______________/\\/\\---/\\___________---______________
       |   ____      __||__()__)        /________________________________||| 
       |  /    )    (           /___ _/ /   |      
             </pre> 
-            <p class="Text">Silenciosamente, você desenrosca a grade e pula sobre o alienígena. Ele parece muito assustado e tenta afastar você.<br>
+            <p class="Text">Silenciosamente você desenrosca a grade e pula sobre o alienígena. Ele parece muito assustado e tenta afastar você.<br>
             Ele é muito forte, mas seus anos de treinamento te tornam mais forte. Sem saber o que fazer para fazê-lo parar,<br>
             você pega um lápis na mesa e o fura até que ele pare de resistir.<br>
             Isso foi brutal... Mas não é como se houvessem outras opções. Agora, você tem um líquido azulado grudando nos braços.<br>
